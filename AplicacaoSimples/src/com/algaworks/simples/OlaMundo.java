@@ -23,5 +23,4 @@ public class OlaMundo extends HttpServlet {
     	out.println("</body>");
     	out.println("</html>");
 	}
-
 }
